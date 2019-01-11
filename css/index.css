@@ -269,4 +269,22 @@ header .logo{
     margin-bottom: 20px;
 }
 
+.top-content-about {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+}
+
+.top-content-about h2{
+    margin-top: 20px;
+    padding-left: 25px;
+}
+
+.top-content-about p{
+    padding-left: 25px;
+    margin-bottom: 25px;
+}
+
 
