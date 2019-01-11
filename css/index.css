@@ -287,4 +287,34 @@ header .logo{
     margin-bottom: 25px;
 }
 
+.middle-content-about{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    line-height: 1.2;
+}
+
+.infoCard{
+    border-bottom: 2px dashed black;
+    width: 48%;
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+
+
+.infoCard button{
+    border-radius: 10px;
+    border: 2px solid black;
+    font-size: 14px;
+    padding: 8px;
+    width: 140px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.infoCard img{
+    margin-bottom: 20px;
+}
+
 
